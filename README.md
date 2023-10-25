@@ -1,1 +1,1 @@
-# Stock_Market_App_System
+# Python_Stock_Market_Project
